@@ -1,0 +1,16 @@
+{
+  "name": "project-7_forkify",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Phong Tran",
+  "license": "ISC",
+  "description": "Recipe application",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.13.2",
+    "parcel": "^2.13.2",
+    "sass": "^1.82.0"
+  }
+}
