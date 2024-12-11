@@ -3,7 +3,7 @@
 121C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\entities\lib\esm\generated\decode-data-html.js133781792038685593 0
 115C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\@parcel\reporter-cli\src\bundleReport.js133781792092710997 0
 115C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\type-fest\source\fixed-length-array.d.ts133781792040265580 0
-66C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist133783654939324890 1
+66C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist133783738628534530 1
 103C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\web\dom-exception.js133781850838658652 0
 103C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\features\typed-array133781850891004799 1
 84C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\is-number133781792038295590 1
@@ -111,7 +111,7 @@
 95C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\lightningcss\LICENSE133781792038345585 0
 100C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\semver\functions\valid.js133781792041895577 0
 103C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\semver\ranges\min-version.js133781792041115590 0
-82C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\src\js\controller.js133783653698097338 0
+82C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\src\js\controller.js133783738626308819 0
 109C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\domutils\lib\esm\querying.d.ts.map133781792041635585 0
 119C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\internals\dom-exception-constants.js133781850838648635 0
 108C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\es\array\virtual\index.js133781850864995356 0
@@ -164,7 +164,7 @@
 114C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\ordered-binary\.idea\ordered-binary.iml133781792038185593 0
 106C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\sass\types\util\promise_or.d.ts133781793814598197 0
 112C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\full\typed-array\find-last.js133781850858207708 0
-89C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\src\js\views\resultsView.js133782925895842026 0
+89C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\src\js\views\resultsView.js133783737825534709 0
 112C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\caniuse-lite\data\features\ch-unit.js133781792043035597 0
 107C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\actual\string\replace.js133781850881209797 0
 99C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\js-yaml\lib\type\bool.js133781792038185593 0
@@ -183,7 +183,7 @@
 97C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\full\README.md133781850891114818 0
 103C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\features\map\some.js133781850883005117 0
 115C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\actual\array\virtual\for-each.js133781850859563649 0
-88C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\src\js\views\recipeView.js133782922688183611 0
+88C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\src\js\views\recipeView.js133783689191118027 0
 96C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\stable\number133781850885876721 1
 110C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\lmdb\dependencies\lz4\lib\lz4file.h133781792044025603 0
 103C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\timsort\build\timsort.min.js133781792039105592 0
@@ -231,7 +231,7 @@
 123C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\features\async-iterator\async-dispose.js133781850829148902 0
 87C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\domutils\lib133781792042435597 1
 109C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\es\array\virtual\filter.js133781850856936738 0
-78C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\src\js\config.js133783654937344811 0
+78C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\src\js\config.js133783656474933171 0
 109C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\@parcel\core\lib\public\Symbols.js133781792098908487 0
 105C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\stable\object\proto.js133781850879961802 0
 120C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\caniuse-lite\data\features\async-clipboard.js133781792041625583 0
@@ -252,7 +252,7 @@
 111C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\features\object\is-frozen.js133781850871127256 0
 114C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\stable\array\virtual\reverse.js133781850881479803 0
 130C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\features\reflect\get-own-property-descriptor.js133781850861164112 0
-77C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\src\js\model.js133783606335795539 0
+77C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\src\js\model.js133783676170286114 0
 112C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\features\reflect\construct.js133781850835787556 0
 101C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\es\string\blink.js133781850832606572 0
 99C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\picocolors\picocolors.js133781792037985600 0
@@ -265,7 +265,7 @@
 99C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\full\map\from.js133781850860263693 0
 95C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\is-arrayish\index.js133781792038585586 0
 110C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\full\async-iterator\take.js133781850884856164 0
-92C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\src\js\views\paginationView.js133783652254286878 0
+92C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\src\js\views\paginationView.js133783656853381712 0
 93C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\chalk\package.json133781792038695585 0
 86C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\cosmiconfig133781792041795591 1
 99C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\features\atob.js133781850831203314 0
@@ -280,7 +280,7 @@
 98C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\picocolors\package.json133781792038375603 0
 106C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\caniuse-lite\data\regions\MQ.js133781792051663694 0
 85C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\picocolors133781792038865597 1
-82C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\src\js\views\View.js133782925369160761 0
+82C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\src\js\views\View.js133783733488739239 0
 119C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\modules\es.string.from-code-point.js133781850846117182 0
 106C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\sass\types\legacy\function.d.ts133781793814417064 0
 116C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\caniuse-lite\data\features\typedarrays.js133781792053663662 0
@@ -4508,7 +4508,7 @@
 114C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\modules\esnext.iterator.take.js133781850849453776 0
 107C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\internals\regexp-exec.js133781850880869269 0
 118C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\modules\esnext.iterator.to-array.js133781850849463740 0
-84C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\logo.726d37a8.png133783639275110641 0
+84C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\logo.726d37a8.png133783738611444871 0
 97C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\color-convert\index.js133781792038455583 0
 118C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\modules\esnext.iterator.to-async.js133781850849473756 0
 117C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\modules\esnext.json.is-raw-json.js133781850849483750 0
@@ -4752,7 +4752,7 @@
 119C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\internals\document-create-element.js133781850838558705 0
 114C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\full\object\get-prototype-of.js133781850861394135 0
 120C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\internals\dom-token-list-prototype.js133781850838688641 0
-88C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\index.e37f48ea.js.map133783654939304834 0
+88C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\index.e37f48ea.js.map133783738628514574 0
 109C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\internals\entry-virtual.js133781850840329275 0
 109C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\internals\enum-bug-keys.js133781850840339143 0
 119C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\@swc\helpers\esm\_assert_this_initialized.js133781792043235580 0
@@ -5795,7 +5795,7 @@
 109C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\features\array\for-each.js133781850859643638 0
 105C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\features\array\from.js133781850860173688 0
 116C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\features\array\group-by-to-map.js133781850861719430 0
-85C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\icons.dfd7a6db.svg133783639276000470 0
+85C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\icons.dfd7a6db.svg133783738611674908 0
 113C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\features\array\group-to-map.js133781850862039451 0
 109C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\features\array\includes.js133781850864230303 0
 109C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\core-js\features\array\index-of.js133781850864475306 0
@@ -7059,7 +7059,7 @@
 121C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\caniuse-lite\data\features\meta-theme-color.js133781792051553673 0
 110C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\caniuse-lite\data\features\meter.js133781792051553673 0
 109C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\caniuse-lite\data\features\midi.js133781792051573664 0
-84C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\index.e37f48ea.js133783654939004915 0
+84C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\index.e37f48ea.js133783738628464523 0
 113C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\caniuse-lite\data\features\minmaxwh.js133781792051583670 0
 108C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\caniuse-lite\data\features\mp3.js133781792051633660 0
 114C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\caniuse-lite\data\features\mpeg-dash.js133781792051643677 0
@@ -8080,8 +8080,8 @@
 90C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\.bin\semver.cmd133781792163117403 0
 90C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\.bin\semver.ps1133781792163117403 0
 106C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\node_modules\.bin\update-browserslist-db.cmd133781792163117403 0
-87C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\favicon.8b2f57bf.png133783639274360688 0
-85C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\icons.21bad73c.svg133783639276000470 0
-85C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\index.f7626f62.css133783639275250486 0
-89C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\index.f7626f62.css.map133783639275310494 0
-77C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\index.html133783639276480495 0
+87C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\favicon.8b2f57bf.png133783738611159498 0
+85C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\icons.21bad73c.svg133783738611664886 0
+85C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\index.f7626f62.css133783738611214936 0
+89C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\index.f7626f62.css.map133783738611274876 0
+77C:\Users\USER\Desktop\Javascript\Js_project\Project-7_Forkify\dist\index.html133783738611644872 0
